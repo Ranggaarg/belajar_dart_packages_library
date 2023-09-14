@@ -1,4 +1,4 @@
 library belajar_dart_package_library;
 
 export 'src/say_hello.dart';
-export 'src/customer.dart' show Category;
+export 'src/customer.dart' show Category, Product;
